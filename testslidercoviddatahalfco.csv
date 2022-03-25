@@ -1,0 +1,401 @@
+﻿Country,Country Code,Continent,Region,Year,Emissions_Per_Capita,Emissions
+Afghanistan,4,Asia,Southern Asia,2022,0.420932656,12251.447
+Afghanistan,4,Asia,Southern Asia,2022,0.29828953,8470.77
+Afghanistan,4,Asia,Southern Asia,2022,0.244570892,6776.616
+Afghanistan,4,Asia,Southern Asia,2022,0.156001009,4217.05
+Afghanistan,4,Asia,Southern Asia,2022,0.08656317,2280.874
+Afghanistan,4,Asia,Southern Asia,2022,0.064666449,1657.484
+Afghanistan,4,Asia,Southern Asia,2021,0.053837851,1338.455
+Afghanistan,4,Asia,Southern Asia,2021,0.039847607,957.087
+Afghanistan,4,Asia,Southern Asia,2021,0.044893348,1037.761
+Afghanistan,4,Asia,Southern Asia,2021,0.04029887,894.748
+Afghanistan,4,Asia,Southern Asia,2021,0.030232274,645.392
+Afghanistan,4,Asia,Southern Asia,2021,0.03792461,781.071
+Afghanistan,4,Asia,Southern Asia,2021,0.041647373,832.409
+Afghanistan,4,Asia,Southern Asia,2021,0.054167558,1056.096
+Afghanistan,4,Asia,Southern Asia,2021,0.058606527,1114.768
+Afghanistan,4,Asia,Southern Asia,2020,0.065114798,1199.109
+Afghanistan,4,Asia,Southern Asia,2020,0.072146977,1268.782
+Afghanistan,4,Asia,Southern Asia,2020,0.080079985,1320.12
+Afghanistan,4,Asia,Southern Asia,2020,0.090615852,1375.125
+Afghanistan,4,Asia,Southern Asia,2020,0.103278005,1426.463
+Afghanistan,4,Asia,Southern Asia,2020,0.197712615,2493.56
+Afghanistan,4,Asia,Southern Asia,2020,0.228187363,2676.91
+Albania,8,Europe,Southern Europe,2022,1.480109123,4668.091
+Albania,8,Europe,Southern Europe,2022,1.401545263,4415.068
+Albania,8,Europe,Southern Europe,2022,1.4243556,4488.408
+Albania,8,Europe,Southern Europe,2022,1.475346321,4657.09
+Albania,8,Europe,Southern Europe,2022,1.414116572,4477.407
+Albania,8,Europe,Southern Europe,2022,1.215577689,3865.018
+Albania,8,Europe,Southern Europe,2022,1.330897054,4253.72
+Albania,8,Europe,Southern Europe,2022,1.295229117,4165.712
+Albania,8,Europe,Southern Europe,2021,1.325577849,4294.057
+Albania,8,Europe,Southern Europe,2021,1.149450177,3751.341
+Albania,8,Europe,Southern Europe,2021,0.980891846,3223.293
+Albania,8,Europe,Southern Europe,2021,0.91426794,3021.608
+Albania,8,Europe,Southern Europe,2021,0.899635648,2984.938
+Albania,8,Europe,Southern Europe,2021,0.527093427,1752.826
+Albania,8,Europe,Southern Europe,2021,0.463422424,1543.807
+Albania,8,Europe,Southern Europe,2021,0.603658798,2016.85
+Albania,8,Europe,Southern Europe,2021,0.621385121,2086.523
+Albania,8,Europe,Southern Europe,2020,0.569926961,1928.842
+Albania,8,Europe,Southern Europe,2020,0.685695348,2343.213
+Albania,8,Europe,Southern Europe,2020,0.692577704,2387.217
+Albania,8,Europe,Southern Europe,2020,1.147870822,3971.361
+Albania,8,Europe,Southern Europe,2020,2.172402188,7488.014
+Algeria,12,Africa,Northern Africa,2022,3.22420156,121755.401
+Algeria,12,Africa,Northern Africa,2022,3.218225408,119276.509
+Algeria,12,Africa,Northern Africa,2022,3.335981792,121374.033
+Algeria,12,Africa,Northern Africa,2022,3.123152738,111575.809
+Algeria,12,Africa,Northern Africa,2022,3.114078158,109294.935
+Algeria,12,Africa,Northern Africa,2022,2.924591565,100919.507
+Algeria,12,Africa,Northern Africa,2022,3.154443155,107127.738
+Algeria,12,Africa,Northern Africa,2022,2.674522946,89493.135
+Algeria,12,Africa,Northern Africa,2021,2.803740228,92533.078
+Algeria,12,Africa,Northern Africa,2021,2.789232068,90853.592
+Algeria,12,Africa,Northern Africa,2021,2.621860338,84293.329
+Algeria,12,Africa,Northern Africa,2021,2.772147555,87930.993
+Algeria,12,Africa,Northern Africa,2021,2.945320314,92118.707
+Algeria,12,Africa,Northern Africa,2021,3.474320431,107080.067
+Algeria,12,Africa,Northern Africa,2021,2.906365551,88195.017
+Algeria,12,Africa,Northern Africa,2021,3.254508932,97131.496
+Algeria,12,Africa,Northern Africa,2020,3.252401881,95345.667
+Algeria,12,Africa,Northern Africa,2020,3.008438011,86500.863
+Algeria,12,Africa,Northern Africa,2020,2.922654307,82294.814
+Algeria,12,Africa,Northern Africa,2020,2.975667284,81935.448
+Algeria,12,Africa,Northern Africa,2020,3.020056546,81220.383
+Algeria,12,Africa,Northern Africa,2020,3.007839912,78924.841
+Andorra,20,Europe,Southern Europe,2022,,491.378
+Andorra,20,Europe,Southern Europe,2022,,517.047
+Andorra,20,Europe,Southern Europe,2022,,517.047
+Andorra,20,Europe,Southern Europe,2022,,539.049
+Andorra,20,Europe,Southern Europe,2022,,539.049
+Andorra,20,Europe,Southern Europe,2022,,546.383
+Andorra,20,Europe,Southern Europe,2021,,575.719
+Andorra,20,Europe,Southern Europe,2021,,564.718
+Andorra,20,Europe,Southern Europe,2021,,535.382
+Andorra,20,Europe,Southern Europe,2021,,531.715
+Andorra,20,Europe,Southern Europe,2021,,524.381
+Andorra,20,Europe,Southern Europe,2021,,524.381
+Andorra,20,Europe,Southern Europe,2020,,513.38
+Andorra,20,Europe,Southern Europe,2020,,484.044
+Andorra,20,Europe,Southern Europe,2020,,458.375
+Andorra,20,Europe,Southern Europe,2020,,425.372
+Andorra,20,Europe,Southern Europe,2020,,407.037
+Angola,24,Africa,Middle Africa,2022,1.47221569,29710.034
+Angola,24,Africa,Middle Africa,2022,1.52145114,29743.037
+Angola,24,Africa,Middle Africa,2022,1.551339989,29361.669
+Angola,24,Africa,Middle Africa,2022,1.483663629,27172.47
+Angola,24,Africa,Middle Africa,2022,1.419985486,25151.953
+Angola,24,Africa,Middle Africa,2022,1.300402531,22266.024
+Angola,24,Africa,Middle Africa,2022,1.157880358,19156.408
+Angola,24,Africa,Middle Africa,2022,1.176297818,18793.375
+Angola,24,Africa,Middle Africa,2022,0.587820499,9064.824
+Angola,24,Africa,Middle Africa,2022,0.850821552,12665.818
+Angola,24,Africa,Middle Africa,2021,0.676539905,9732.218
+Angola,24,Africa,Middle Africa,2021,0.685212349,9541.534
+Angola,24,Africa,Middle Africa,2021,0.677726241,9156.499
+Angola,24,Africa,Middle Africa,2021,0.556293635,7308.331
+Angola,24,Africa,Middle Africa,2021,0.577081314,7381.671
+Angola,24,Africa,Middle Africa,2021,0.842542029,10491.287
+Angola,24,Africa,Middle Africa,2020,0.909710423,11012.001
+Angola,24,Africa,Middle Africa,2020,0.331307492,3890.687
+Angola,24,Africa,Middle Africa,2020,0.510122619,5801.194
+Angola,24,Africa,Middle Africa,2020,0.401602489,4418.735
+Angola,24,Africa,Middle Africa,2020,0.409979248,4367.397
+Angola,24,Africa,Middle Africa,2020,0.428662945,4429.736
+Anguilla,660,Americas,Caribbean,2022,,143.013
+Anguilla,660,Americas,Caribbean,2022,,150.347
+Anguilla,660,Americas,Caribbean,2022,,146.68
+Anguilla,660,Americas,Caribbean,2022,,150.347
+Anguilla,660,Americas,Caribbean,2022,,150.347
+Anguilla,660,Americas,Caribbean,2021,,143.013
+Anguilla,660,Americas,Caribbean,2021,,128.345
+Anguilla,660,Americas,Caribbean,2021,,121.011
+Anguilla,660,Americas,Caribbean,2021,,102.676
+Anguilla,660,Americas,Caribbean,2021,,95.342
+Anguilla,660,Americas,Caribbean,2021,,95.342
+Anguilla,660,Americas,Caribbean,2020,,62.339
+Anguilla,660,Americas,Caribbean,2020,,51.338
+Anguilla,660,Americas,Caribbean,2020,,47.671
+Anguilla,660,Americas,Caribbean,2020,,44.004
+Antigua and Barbuda,28,Americas,Caribbean,2022,5.823804338,513.38
+Antigua and Barbuda,28,Americas,Caribbean,2022,6.011268671,524.381
+Antigua and Barbuda,28,Americas,Caribbean,2022,5.906292005,509.713
+Antigua and Barbuda,28,Americas,Caribbean,2022,5.628384633,480.377
+Antigua and Barbuda,28,Americas,Caribbean,2022,5.561524699,469.376
+Antigua and Barbuda,28,Americas,Caribbean,2022,5.096289552,425.372
+Antigua and Barbuda,28,Americas,Caribbean,2022,4.974311149,410.704
+Antigua and Barbuda,28,Americas,Caribbean,2022,4.980995619,407.037
+Antigua and Barbuda,28,Americas,Caribbean,2022,4.804484327,388.702
+Antigua and Barbuda,28,Americas,Caribbean,2021,4.536211421,363.033
+Antigua and Barbuda,28,Americas,Caribbean,2021,4.364812845,344.698
+Antigua and Barbuda,28,Americas,Caribbean,2021,4.439238615,344.698
+Antigua and Barbuda,28,Americas,Caribbean,2021,4.581278521,348.365
+Antigua and Barbuda,28,Americas,Caribbean,2021,4.49690052,333.697
+Antigua and Barbuda,28,Americas,Caribbean,2021,4.670561524,337.364
+Antigua and Barbuda,28,Americas,Caribbean,2021,4.593864332,322.696
+Antigua and Barbuda,28,Americas,Caribbean,2021,4.721298044,322.696
+Antigua and Barbuda,28,Americas,Caribbean,2020,4.683621337,311.695
+Antigua and Barbuda,28,Americas,Caribbean,2020,4.692005303,304.361
+Antigua and Barbuda,28,Americas,Caribbean,2020,4.566841126,289.693
+Antigua and Barbuda,28,Americas,Caribbean,2020,4.641623406,289.693
+Antigua and Barbuda,28,Americas,Caribbean,2020,4.85726747,300.694
+Argentina,32,Americas,South America,2022,4.665868631,190034.941
+Argentina,32,Americas,South America,2022,4.433544977,179000.938
+Argentina,32,Americas,South America,2022,4.513701165,180654.755
+Argentina,32,Americas,South America,2022,4.828570099,191578.748
+Argentina,32,Americas,South America,2022,4.569839912,179738.005
+Argentina,32,Americas,South America,2022,4.468897615,174237.505
+Argentina,32,Americas,South America,2022,4.164577003,160951.964
+Argentina,32,Americas,South America,2021,4.076616381,156170.196
+Argentina,32,Americas,South America,2021,3.506066026,133126.768
+Argentina,32,Americas,South America,2021,3.275956616,123266.205
+Argentina,32,Americas,South America,2021,3.55835158,132631.723
+Argentina,32,Americas,South America,2021,3.822902416,141076.824
+Argentina,32,Americas,South America,2021,3.984389596,145488.225
+Argentina,32,Americas,South America,2021,3.812693347,137673.848
+Argentina,32,Americas,South America,2020,3.773465207,134677.909
+Argentina,32,Americas,South America,2020,3.664289062,129217.746
+Argentina,32,Americas,South America,2020,3.518125971,122547.473
+Argentina,32,Americas,South America,2020,3.585840171,123350.546
+Argentina,32,Americas,South America,2020,3.492412111,118609.115
+Argentina,32,Americas,South America,2020,3.62304486,121447.373
+Argentina,32,Americas,South America,2020,3.538038326,117021.304
+Argentina,32,Americas,South America,2020,3.451770266,112613.57
+Armenia,51,Asia,Western Asia,2022,1.67383608,4961.451
+Armenia,51,Asia,Western Asia,2022,1.422998378,4217.05
+Armenia,51,Asia,Western Asia,2022,1.468947703,4360.063
+Armenia,51,Asia,Western Asia,2022,1.86706781,5559.172
+Armenia,51,Asia,Western Asia,2022,1.693754804,5064.127
+Armenia,51,Asia,Western Asia,2022,1.459272353,4382.065
+Armenia,51,Asia,Western Asia,2022,1.443730955,4352.729
+Armenia,51,Asia,Western Asia,2022,1.204698359,3644.998
+Armenia,51,Asia,Western Asia,2022,1.129317807,3428.645
+Armenia,51,Asia,Western Asia,2022,0.998886775,3043.61
+Armenia,51,Asia,Western Asia,2021,1.157636701,3542.322
+Armenia,51,Asia,Western Asia,2021,1.126529454,3465.315
+Armenia,51,Asia,Western Asia,2021,0.988511937,3058.278
+Armenia,51,Asia,Western Asia,2021,1.094342744,3406.643
+Armenia,51,Asia,Western Asia,2021,1.044825239,3278.298
+Armenia,51,Asia,Western Asia,2021,0.821584566,2607.237
+Armenia,51,Asia,Western Asia,2021,1.083089242,3490.984
+Armenia,51,Asia,Western Asia,2021,0.901718662,2966.603
+Armenia,51,Asia,Western Asia,2020,0.859706565,2896.93
+Armenia,51,Asia,Western Asia,2020,1.174674163,4052.035
+Aruba,533,Americas,Caribbean,2022,23.92335086,2438.555
+Aruba,533,Americas,Caribbean,2022,24.18270225,2456.89
+Aruba,533,Americas,Caribbean,2022,24.87621527,2522.896
+Aruba,533,Americas,Caribbean,2022,24.74964477,2508.228
+Aruba,533,Americas,Caribbean,2022,25.6134619,2592.569
+Aruba,533,Americas,Caribbean,2022,24.76670634,2497.227
+Aruba,533,Americas,Caribbean,2022,24.964531,2497.227
+Aruba,533,Americas,Caribbean,2022,24.51054263,2420.22
+Aruba,533,Americas,Caribbean,2022,24.90906561,2416.553
+Aruba,533,Americas,Caribbean,2021,24.9755145,2372.549
+Aruba,533,Americas,Caribbean,2021,25.38248972,2357.881
+Aruba,533,Americas,Caribbean,2021,25.5476788,2321.211
+Aruba,533,Americas,Caribbean,2021,19.65258865,1749.159
+Aruba,533,Americas,Caribbean,2021,19.62153398,1712.489
+Aruba,533,Americas,Caribbean,2020,21.50066123,1837.167
+Aruba,533,Americas,Caribbean,2020,21.64188954,1800.497
+Aruba,533,Americas,Caribbean,2020,22.18661455,1782.162
+Aruba,533,Americas,Caribbean,2020,22.99644068,1763.827
+Aruba,533,Americas,Caribbean,2020,24.43048084,1771.161
+Aruba,533,Americas,Caribbean,2020,25.25815197,1723.49
+Aruba,533,Americas,Caribbean,2020,29.84760844,1928.842
+Aruba,533,Americas,Caribbean,2020,29.62016477,1840.834
+Australia,36,Oceania,Australia and New Zealand,2022,16.22826947,369039.546
+Australia,36,Oceania,Australia and New Zealand,2022,16.43288912,368170.467
+Australia,36,Oceania,Australia and New Zealand,2022,17.35544544,382464.433
+Australia,36,Oceania,Australia and New Zealand,2022,17.38026698,376197.53
+Australia,36,Oceania,Australia and New Zealand,2022,17.12280167,363795.736
+Australia,36,Oceania,Australia and New Zealand,2022,17.15489431,357946.871
+Australia,36,Oceania,Australia and New Zealand,2022,17.06898685,350268.173
+Australia,36,Oceania,Australia and New Zealand,2021,16.95362238,342776.492
+Australia,36,Oceania,Australia and New Zealand,2021,16.8572914,336355.575
+Australia,36,Oceania,Australia and New Zealand,2021,17.3166046,341390.366
+Australia,36,Oceania,Australia and New Zealand,2021,16.67129781,324877.865
+Australia,36,Oceania,Australia and New Zealand,2021,17.1075082,329479.95
+Australia,36,Oceania,Australia and New Zealand,2021,17.10058096,325380.244
+Australia,36,Oceania,Australia and New Zealand,2021,16.86469989,316964.479
+Australia,36,Oceania,Australia and New Zealand,2021,16.47532828,305838.801
+Australia,36,Oceania,Australia and New Zealand,2021,16.48077126,302241.474
+Australia,36,Oceania,Australia and New Zealand,2020,15.55602085,281940.962
+Australia,36,Oceania,Australia and New Zealand,2020,15.52428006,278204.289
+Australia,36,Oceania,Australia and New Zealand,2020,15.65491705,277478.223
+Australia,36,Oceania,Australia and New Zealand,2020,15.29324941,268068.701
+Australia,36,Oceania,Australia and New Zealand,2020,15.10100848,261574.444
+Australia,36,Oceania,Australia and New Zealand,2020,15.43253235,263847.984
+Austria,40,Europe,Western Europe,2022,7.731978835,65202.927
+Austria,40,Europe,Western Europe,2022,8.090430121,67975.179
+Austria,40,Europe,Western Europe,2022,7.583050108,63483.104
+Austria,40,Europe,Western Europe,2022,8.241611104,68752.583
+Austria,40,Europe,Western Europe,2022,8.388936821,69724.338
+Austria,40,Europe,Western Europe,2022,8.724272364,72214.231
+Austria,40,Europe,Western Europe,2022,9.015939108,74278.752
+Austria,40,Europe,Western Europe,2022,8.821129999,72272.903
+Austria,40,Europe,Western Europe,2021,8.851883406,72074.885
+Austria,40,Europe,Western Europe,2021,8.277233977,66977.755
+Austria,40,Europe,Western Europe,2021,8.172739967,65785.98
+Austria,40,Europe,Western Europe,2021,7.753942826,62188.653
+Austria,40,Europe,Western Europe,2021,7.732081536,61917.295
+Austria,40,Europe,Western Europe,2021,7.955723094,63717.792
+Austria,40,Europe,Western Europe,2021,7.824398524,62705.7
+Austria,40,Europe,Western Europe,2020,7.894080477,63226.414
+Austria,40,Europe,Western Europe,2020,7.492087407,59827.105
+Austria,40,Europe,Western Europe,2020,7.192437856,57095.19
+Austria,40,Europe,Western Europe,2020,7.257737164,57135.527
+Austria,40,Europe,Western Europe,2020,7.270324579,56688.153
+Austria,40,Europe,Western Europe,2020,7.977623192,61638.603
+Austria,40,Europe,Western Europe,2020,7.525715707,57722.247
+Azerbaijan,31,Asia,Western Asia,2022,3.63574629,33457.708
+Azerbaijan,31,Asia,Western Asia,2022,3.373180125,30678.122
+Azerbaijan,31,Asia,Western Asia,2022,3.550184248,31902.9
+Azerbaijan,31,Asia,Western Asia,2022,3.999236061,35503.894
+Azerbaijan,31,Asia,Western Asia,2022,3.478793111,30509.44
+Azerbaijan,31,Asia,Western Asia,2022,4.520161556,39167.227
+Azerbaijan,31,Asia,Western Asia,2021,4.009832078,34337.788
+Azerbaijan,31,Asia,Western Asia,2021,3.790837042,32089.917
+Azerbaijan,31,Asia,Western Asia,2021,3.657725788,30615.783
+Azerbaijan,31,Asia,Western Asia,2021,3.576753841,29614.692
+Azerbaijan,31,Asia,Western Asia,2021,3.510650757,28771.282
+Azerbaijan,31,Asia,Western Asia,2021,3.635043957,29508.349
+Azerbaijan,31,Asia,Western Asia,2021,3.550839743,28576.931
+Azerbaijan,31,Asia,Western Asia,2021,3.967149438,31675.546
+Azerbaijan,31,Asia,Western Asia,2020,3.762938974,29809.043
+Azerbaijan,31,Asia,Western Asia,2020,4.012918425,31510.531
+Azerbaijan,31,Asia,Western Asia,2020,4.308396066,33479.71
+Azerbaijan,31,Asia,Western Asia,2020,5.559891509,42672.879
+Azerbaijan,31,Asia,Western Asia,2020,6.523607284,49365.154
+Azerbaijan,31,Asia,Western Asia,2020,7.741090094,57678.243
+Bahamas,44,Americas,Caribbean,2022,5.205237886,1906.84
+Bahamas,44,Americas,Caribbean,2022,6.835610738,2464.224
+Bahamas,44,Americas,Caribbean,2022,4.634282297,1642.816
+Bahamas,44,Americas,Caribbean,2022,3.000215307,1045.095
+Bahamas,44,Americas,Caribbean,2022,4.524129584,1547.474
+Bahamas,44,Americas,Caribbean,2022,4.534282616,1521.805
+Bahamas,44,Americas,Caribbean,2022,4.858311455,1598.812
+Bahamas,44,Americas,Caribbean,2022,5.345812655,1723.49
+Bahamas,44,Americas,Caribbean,2021,4.809957418,1518.138
+Bahamas,44,Americas,Caribbean,2021,5.102301004,1576.81
+Bahamas,44,Americas,Caribbean,2021,5.179703305,1569.476
+Bahamas,44,Americas,Caribbean,2021,5.603474622,1668.485
+Bahamas,44,Americas,Caribbean,2021,5.710903688,1675.819
+Bahamas,44,Americas,Caribbean,2021,5.7928092,1679.486
+Bahamas,44,Americas,Caribbean,2021,4.755613659,1364.124
+Bahamas,44,Americas,Caribbean,2020,5.881615776,1668.485
+Bahamas,44,Americas,Caribbean,2020,6.010187467,1683.153
+Bahamas,44,Americas,Caribbean,2020,6.115655137,1686.82
+Bahamas,44,Americas,Caribbean,2020,6.276121798,1701.488
+Bahamas,44,Americas,Caribbean,2020,6.738756919,1793.163
+Bahamas,44,Americas,Caribbean,2020,6.825539444,1782.162
+Bahamas,44,Americas,Caribbean,2020,7.610436221,1950.844
+Bahrain,48,Asia,Western Asia,2022,18.13127841,23439.464
+Bahrain,48,Asia,Western Asia,2022,18.57946901,23252.447
+Bahrain,48,Asia,Western Asia,2022,18.21591488,21704.973
+Bahrain,48,Asia,Western Asia,2022,21.51496275,24011.516
+Bahrain,48,Asia,Western Asia,2022,21.32313366,22013.001
+Bahrain,48,Asia,Western Asia,2022,19.80127788,18830.045
+Bahrain,48,Asia,Western Asia,2022,21.8385486,19207.746
+Bahrain,48,Asia,Western Asia,2022,21.34042449,17509.925
+Bahrain,48,Asia,Western Asia,2021,21.33064744,16468.497
+Bahrain,48,Asia,Western Asia,2021,21.43010016,15698.427
+Bahrain,48,Asia,Western Asia,2021,19.93171511,13927.266
+Bahrain,48,Asia,Western Asia,2021,27.89874282,18643.028
+Bahrain,48,Asia,Western Asia,2021,28.11557575,18019.638
+Bahrain,48,Asia,Western Asia,2021,29.80335267,18404.673
+Bahrain,48,Asia,Western Asia,2021,28.99102946,17319.241
+Bahrain,48,Asia,Western Asia,2020,26.94756054,15621.42
+Bahrain,48,Asia,Western Asia,2020,28.4198517,16021.123
+Bahrain,48,Asia,Western Asia,2020,29.07985687,15969.785
+Bahrain,48,Asia,Western Asia,2020,29.31075524,15702.094
+Bahrain,48,Asia,Western Asia,2020,21.91427276,11455.708
+Bahrain,48,Asia,Western Asia,2020,24.20466796,12335.788
+Bahrain,48,Asia,Western Asia,2020,25.5388068,12665.818
+Bangladesh,50,Asia,Southern Asia,2022,0.373339091,57069.521
+Bangladesh,50,Asia,Southern Asia,2022,0.371563901,56152.771
+Bangladesh,50,Asia,Southern Asia,2022,0.353103929,52790.132
+Bangladesh,50,Asia,Southern Asia,2022,0.335078178,49581.507
+Bangladesh,50,Asia,Southern Asia,2022,0.320136563,46886.262
+Bangladesh,50,Asia,Southern Asia,2022,0.332278182,48136.709
+Bangladesh,50,Asia,Southern Asia,2022,0.262365597,37553.747
+Bangladesh,50,Asia,Southern Asia,2022,0.28144773,39750.28
+Bangladesh,50,Asia,Southern Asia,2022,0.243437439,33883.08
+Bangladesh,50,Asia,Southern Asia,2021,0.246025688,33707.064
+Bangladesh,50,Asia,Southern Asia,2021,0.240902076,32456.617
+Bangladesh,50,Asia,Southern Asia,2021,0.210519056,27869.2
+Bangladesh,50,Asia,Southern Asia,2021,0.194174893,25236.294
+Bangladesh,50,Asia,Southern Asia,2021,0.188644999,24048.186
+Bangladesh,50,Asia,Southern Asia,2021,0.200599318,25063.945
+Bangladesh,50,Asia,Southern Asia,2021,0.196320875,24029.851
+Bangladesh,50,Asia,Southern Asia,2021,0.190340811,22816.074
+Bangladesh,50,Asia,Southern Asia,2021,0.161621139,18969.391
+Bangladesh,50,Asia,Southern Asia,2021,0.151502361,17407.249
+Bangladesh,50,Asia,Southern Asia,2020,0.157859354,17748.28
+Bangladesh,50,Asia,Southern Asia,2020,0.144999395,15940.449
+Bangladesh,50,Asia,Southern Asia,2020,0.144650458,15533.412
+Barbados,52,Americas,Caribbean,2022,5.556376063,1565.809
+Barbados,52,Americas,Caribbean,2022,5.414264112,1518.138
+Barbados,52,Americas,Caribbean,2022,5.822387332,1624.481
+Barbados,52,Americas,Caribbean,2022,5.864368197,1628.148
+Barbados,52,Americas,Caribbean,2022,5.176435244,1430.13
+Barbados,52,Americas,Caribbean,2022,4.988516785,1371.458
+Barbados,52,Americas,Caribbean,2022,4.946203503,1353.123
+Barbados,52,Americas,Caribbean,2022,4.755426976,1294.451
+Barbados,52,Americas,Caribbean,2021,4.684549039,1268.782
+Barbados,52,Americas,Caribbean,2021,4.557831585,1228.445
+Barbados,52,Americas,Caribbean,2021,4.551357456,1221.111
+Barbados,52,Americas,Caribbean,2021,4.446678394,1188.108
+Barbados,52,Americas,Caribbean,2021,4.545526256,1210.11
+Barbados,52,Americas,Caribbean,2021,4.297535516,1140.437
+Barbados,52,Americas,Caribbean,2021,3.40915172,902.082
+Barbados,52,Americas,Caribbean,2020,3.223931728,850.744
+Barbados,52,Americas,Caribbean,2020,3.149134573,828.742
+Barbados,52,Americas,Caribbean,2020,2.850423524,748.068
+Barbados,52,Americas,Caribbean,2020,4.259489366,1114.768
+Barbados,52,Americas,Caribbean,2020,3.751830719,979.089
+Barbados,52,Americas,Caribbean,2020,4.637044297,1206.443
+Barbados,52,Americas,Caribbean,2020,4.143007527,1074.431
+Belarus,112,Europe,Eastern Europe,2022,6.698497554,63303.421
+Belarus,112,Europe,Eastern Europe,2022,6.555810462,62221.656
+Belarus,112,Europe,Eastern Europe,2022,6.329432587,60292.814
+Belarus,112,Europe,Eastern Europe,2022,6.573568244,62815.71
+Belarus,112,Europe,Eastern Europe,2022,6.288940915,60281.813
+Belarus,112,Europe,Eastern Europe,2022,6.42692097,61829.287
+Belarus,112,Europe,Eastern Europe,2022,6.111341629,59064.369
+Belarus,112,Europe,Eastern Europe,2022,5.970952957,58037.609
+Belarus,112,Europe,Eastern Europe,2022,5.490693023,53721.55
+Belarus,112,Europe,Eastern Europe,2021,5.31727814,52390.429
+Belarus,112,Europe,Eastern Europe,2021,5.30190159,52595.781
+Belarus,112,Europe,Eastern Europe,2021,5.356784178,53468.527
+Belarus,112,Europe,Eastern Europe,2021,5.562563585,55819.074
+Belarus,112,Europe,Eastern Europe,2021,5.713606954,57597.569
+Belarus,112,Europe,Eastern Europe,2021,5.881008613,59519.077
+Belarus,112,Europe,Eastern Europe,2021,5.923159396,60157.135
+Belarus,112,Europe,Eastern Europe,2021,6.096626043,62118.98
+Belarus,112,Europe,Eastern Europe,2020,6.449747037,65914.325
+Belarus,112,Europe,Eastern Europe,2020,7.266112329,74451.101
+Belarus,112,Europe,Eastern Europe,2020,8.52275292,87487.286
+India,356,Asia,Southern Asia,2022,1.698672693,2074344.893
+India,356,Asia,Southern Asia,2022,1.618207081,1950950.343
+India,356,Asia,Southern Asia,2022,1.651757959,1965820.028
+India,356,Asia,Southern Asia,2022,1.526459937,1793074.992
+India,356,Asia,Southern Asia,2022,1.390048942,1611199.126
+India,356,Asia,Southern Asia,2022,1.315821535,1504364.748
+India,356,Asia,Southern Asia,2022,1.251950214,1411127.606
+India,356,Asia,Southern Asia,2022,1.214202126,1348524.582
+India,356,Asia,Southern Asia,2022,1.171995833,1281913.527
+India,356,Asia,Southern Asia,2021,1.139393204,1226791.183
+India,356,Asia,Southern Asia,2021,1.136236043,1203843.097
+India,356,Asia,Southern Asia,2021,1.138546236,1186663.202
+India,356,Asia,Southern Asia,2021,1.11646205,1144390.026
+India,356,Asia,Southern Asia,2021,1.063671976,1071911.771
+India,356,Asia,Southern Asia,2021,1.053994868,1043939.895
+India,356,Asia,Southern Asia,2021,1.029878845,1002224.103
+India,356,Asia,Southern Asia,2021,0.962588869,920046.633
+India,356,Asia,Southern Asia,2020,0.921657278,864931.623
+India,356,Asia,Southern Asia,2020,0.884041935,814297.687
+India,356,Asia,Southern Asia,2020,0.86709217,783634.233
+India,356,Asia,Southern Asia,2020,0.832462131,737851.738
+India,356,Asia,Southern Asia,2020,0.794779797,690576.774
